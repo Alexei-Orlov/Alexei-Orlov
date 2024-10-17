@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @Alexei-Orlov
-- 👀 I’m interested in space exploration probes and rovers
-- 🌱 I’m currently learning electronical engineering
-- 💞️ I’m looking to collaborate on robotics
-- 📫 How to reach me ...
-- ⚡ Fun fact: ...
+Hi, I am a french student at ENSEA I work on robots 
 
 <!---
 Alexei-Orlov/Alexei-Orlov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

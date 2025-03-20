@@ -1,4 +1,4 @@
-Hi, I am a french student at ENSEA I work on robots 
+Hi, I am a student at ENSEA
 
 <!---
 Alexei-Orlov/Alexei-Orlov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
